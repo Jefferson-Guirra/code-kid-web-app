@@ -1,0 +1,17 @@
+.container {
+  padding: 5rem 2rem;
+  border-radius: 0.3rem;
+  width: 30%;
+  border: 1px solid yellow;
+}
+
+.container h2 {
+  margin-bottom: 5rem;
+  text-align: center;
+}
+
+.form label{
+  display: block;
+  margin-block: 2rem 0rem;
+
+}

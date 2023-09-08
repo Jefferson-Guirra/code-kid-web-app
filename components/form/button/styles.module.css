@@ -1,0 +1,20 @@
+.btn-submit {
+  display: block;
+  background-color: var(--second-color);
+  border: 1px solid transparent;
+  transition: 0.7s;
+  border-radius: 7px;
+  color: var(--four-color);
+  padding: 0.9rem 1rem;
+  font-weight: bold;
+  margin: 2rem auto;
+}
+
+.btn-submit:hover {
+  cursor: pointer;
+  background-color: var(--four-color);
+  border: 1px solid var(--second-color);
+  color: var(--three-color);
+  box-shadow: 0px 0px 5px #88237fc7;
+  
+}
